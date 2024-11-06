@@ -11,7 +11,7 @@ const app = express();
 const port = process.env.PORT || 5300;
 
 const corsOptions = {
-  origin: "http://localhost:3000",
+  origin: "https://vercel.com/gabrieldev023s-projects/hq-labs-front-deploy",
   credentials:true,            //access-control-allow-credentials:true
   optionSuccessStatus: 200,
 };

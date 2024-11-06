@@ -1,6 +1,6 @@
 [
     {
-      "origin": ["http://localhost:3000"], 
+      "origin": ["https://vercel.com/gabrieldev023s-projects/hq-labs-front-deploy"], 
       "method": ["GET", "POST", "PUT", "DELETE"],
       "maxAgeSeconds": 3600
     }
